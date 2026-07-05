@@ -1,0 +1,8 @@
+.env
+venv/
+__pycache__/
+*.pyc
+*.db
+.DS_Store
+check_dates.py
+check_faker.py
